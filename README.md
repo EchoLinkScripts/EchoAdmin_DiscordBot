@@ -1,4 +1,4 @@
-# fivem_discord_bot
+# EchoAdmin Fivem Discord Bot
 **[QB/ESX] FiveM Admin Discord Bot Script**
 
 [Buy Here](https://echolink-scripts.tebex.io/)<br>
